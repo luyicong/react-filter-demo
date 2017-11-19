@@ -6,7 +6,7 @@ clone到本地仓之后，自行`npm **`，都老司机了，这里也不重复�
 # 安装依赖
 yran install
 
-# 调试环境 serve with hot reload at localhost:8091
+# 调试环境 serve with hot reload at localhost:3000
 yran start
 
 # 生产环境 build for production with minification
